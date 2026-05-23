@@ -78,6 +78,13 @@
 ### 📁 Тестовые артефакты:
 <ul>
   <li><a href="https://github.com/TestAmelchenko/web_testing">Тестирование Веб-приложения</a> – исследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/TestAmelchenko/api_testing">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/TestAmelchenko/sql">MySQL</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/TestAmelchenko/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
+  <li><a href="https://github.com/TestAmelchenko/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/TestAmelchenko/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
+  <li><a href="https://github.com/TestAmelchenko/bash">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/TestAmelchenko/git">Git</a> – basic version control commands</li>
 </ul>
 
 ---
