@@ -79,10 +79,7 @@
 <ul>
   <li><a href="https://github.com/TestAmelchenko/web_testing">Тестирование Веб-приложения</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/TestAmelchenko/sql">MySQL</a> – работа с запросами</li>
-  <li><a href="https://github.com/TestAmelchenko/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/TestAmelchenko/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/TestAmelchenko/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/TestAmelchenko/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/TestAmelchenko/mobile_testing">Тестирование Android приложений</a> – ручное тестирование мобильного приложения</li>
 </ul>
 
 ---
