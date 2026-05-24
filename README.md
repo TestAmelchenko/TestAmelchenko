@@ -79,7 +79,7 @@
 <ul>
   <li><a href="https://github.com/TestAmelchenko/web_testing">Тестирование Веб-приложения</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/TestAmelchenko/sql">MySQL</a> – работа с запросами</li>
-  <li><a href="https://github.com/TestAmelchenko/mobile_testing">Тестирование Android приложений</a> – ручное тестирование мобильного приложения</li>
+  <li><a href="https://github.com/TestAmelchenko/mobile_testing">Тестирование Android приложения</a> – ручное тестирование мобильного приложения</li>
 </ul>
 
 ---
