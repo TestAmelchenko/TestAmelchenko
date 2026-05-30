@@ -81,6 +81,7 @@
   <li><a href="https://github.com/TestAmelchenko/sql">MySQL</a> – работа с базой данных</li>
   <li><a href="https://github.com/TestAmelchenko/mongodb">MongoDB</a> – NoSQL работа с базой данных </li>
   <li><a href="https://github.com/TestAmelchenko/mobile_testing">Тестирование Android приложения</a> – ручное тестирование мобильного приложения</li>
+  <li><a href="https://github.com/TestAmelchenko/charlesproxy">Charles Proxy</a> – перехват и изменение трафика</li>
 </ul>
 
 ---
